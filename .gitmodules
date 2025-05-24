@@ -38,10 +38,6 @@
 	path = externals/toml11
 	url = https://github.com/ToruNiina/toml11.git
 	shallow = true
-[submodule "externals/zydis"]
-	path = externals/zydis
-	url = https://github.com/zyantific/zydis.git
-	shallow = true
 [submodule "externals/sirit"]
 	path = externals/sirit
 	url = https://github.com/shadps4-emu/sirit.git
@@ -106,3 +102,6 @@
 [submodule "externals/libusb"]
 	path = externals/libusb
 	url = https://github.com/libusb/libusb-cmake.git
+[submodule "externals/zydis"]
+	path = externals/zydis
+	url = https://github.com/zyantific/zydis.git
